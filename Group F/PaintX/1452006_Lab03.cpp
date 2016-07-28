@@ -1,5 +1,5 @@
 ﻿// 1452006_Lab02.cpp : Defines the entry point for the application.
-//
+////
 
 #include "stdafx.h"
 #include "1452006_Lab03.h"
